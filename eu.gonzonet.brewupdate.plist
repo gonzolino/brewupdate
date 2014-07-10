@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>net.mkalmes.brewupdate</string>
+	<string>eu.gonzonet.brewupdate</string>
 	<key>ProcessType</key>
 	<string>Background</string>
 	<key>EnvironmentVariables</key>
